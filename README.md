@@ -104,4 +104,4 @@ npm run test:isolation
 
 ## 📄 License
 ISC  
-**Last Updated**: April 2026
+**Last Updated**: October 2026
