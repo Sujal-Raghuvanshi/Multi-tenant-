@@ -60,11 +60,11 @@ cd server && npm install
 ### Environment Setup
 Create a `.env` in the `server/` directory:
 ```env
-MONGODB_URI=mongodb://127.0.0.1:27017/sky_gate
+MONGODB_URI=
 PORT=3000
-JWT_SECRET=your_jwt_secret_key
-ADMIN_PASSWORD=admin123
-SUPERADMIN_PASSWORD=super123
+JWT_SECRET=
+ADMIN_PASSWORD=
+SUPERADMIN_PASSWORD=
 ```
 
 ### Running the App
